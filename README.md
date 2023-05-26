@@ -7,4 +7,4 @@ The severity of Acute kidney injury(aki) patients is classified using XGboost mo
 # How to run
 Install libraries like numpy, sklearn, xgboost
 ```
-python3 pooledmodel.py
+python3 XGBoostmodel.py
